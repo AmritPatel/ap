@@ -1,4 +1,4 @@
-# [Intro to Computer Science]({{ "/" | relative_url }})
+# [Computer Science Principles]({{ "/" | relative_url }})
 
 Lincoln School\\
 2019–2020
