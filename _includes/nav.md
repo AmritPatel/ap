@@ -1,5 +1,6 @@
 ***
 
+* [My Submissions](https://submit.cs50.io/)
 * [CS50 IDE](https://ide.cs50.io/)
 * [CS50 Reference](https://reference.cs50.net/)
 
