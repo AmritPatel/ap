@@ -11,6 +11,7 @@
 
 ***
 
+* [Block F]({{ "/periods/1" | relative_url }})
 * [Block H]({{ "/periods/1" | relative_url }})
 
 ***
