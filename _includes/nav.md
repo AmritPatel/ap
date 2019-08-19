@@ -13,3 +13,4 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
+* [Discuss](https://groups.google.com/forum/#!forum/ap-discuss/join)
