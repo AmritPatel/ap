@@ -2,7 +2,7 @@
 
 * [My Submissions](https://submit.cs50.io/)
 * [CS50 IDE](https://ide.cs50.io/)
-* [CS50 Reference](https://reference.cs50.net/)
+* [CS50 Programmer's Manual](https://man.cs50.io/)
 
 ***
 
@@ -11,11 +11,5 @@
 
 ***
 
-* [Block F]({{ "/periods/1" | relative_url }})
-* [Block H]({{ "/periods/1" | relative_url }})
-
-***
-
-* [**Units**]({{ "/units" | relative_url }})
-* [Syllabus]({{ "/syllabus" | relative_url }})
+* [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
