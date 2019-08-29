@@ -1,8 +1,9 @@
 ***
 
 * [My Submissions](https://submit.cs50.io/)
-* [CS50 IDE](https://ide.cs50.io/)
-* [CS50 Programmer's Manual](https://man.cs50.io/)
+* [My IDE](https://ide.cs50.io/)
+* [My Sandbox](https://sandbox.cs50.io/)
+* [Programmer's Manual](https://man.cs50.io/)
 
 ***
 
